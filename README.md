@@ -30,8 +30,8 @@ To accomplish these tasks, I used **Scrapy**, a powerful web crawling framework 
 
 - **data/**: Contains the raw data used in the analysis.
 - **mycrawler/**: Includes the Scrapy crawler files.
-- **notebooks/**: Jupyter notebook with detailed exploratory data analysis and visualizations.
-- **.csv files/**: CSV files containing the output of the crawler.
+- **notebooks**: Jupyter notebook with detailed exploratory data analysis and visualizations.
+- **.csv files**: CSV files containing the output of the crawler.
 - **README.md**: This file, providing an overview of the project.
 
 
