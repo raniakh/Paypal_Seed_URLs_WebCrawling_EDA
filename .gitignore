@@ -1,5 +1,6 @@
 # Ignore all files in the .idea directory
 .idea/
+.DS_Store/
 
 # Ignore specific Jupyter notebooks
 Rania_Khoury_EDA.ipynb
