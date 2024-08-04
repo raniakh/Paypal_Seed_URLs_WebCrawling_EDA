@@ -2,6 +2,8 @@
 .idea/
 .DS_Store/
 
+.ipynb_checkpoints/
+
 # Ignore specific Jupyter notebooks
 Rania_Khoury_EDA.ipynb
 Rania_Khoury_Learning_Task.ipynb
