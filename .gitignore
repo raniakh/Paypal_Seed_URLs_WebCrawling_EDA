@@ -4,6 +4,9 @@
 
 .ipynb_checkpoints/
 
+mycrawler/mycrawler/spiders/__pycache__/
+crawleroutput/
+
 # Ignore specific Jupyter notebooks
 Rania_Khoury_EDA.ipynb
 Rania_Khoury_Learning_Task.ipynb
