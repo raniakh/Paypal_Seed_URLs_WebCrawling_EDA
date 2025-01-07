@@ -1,7 +1,3 @@
-Here's the updated README file with the mention of using Scrapy:
-
----
-
 # Web Crawling and URL Data Analysis
 
 This repository contains the code and analysis from my first task during my data science internship at PayPal. The primary objective of this task was to learn the fundamentals of web crawling and explore the data world of URLs. The insights gained from this project have provided a foundational understanding necessary for more advanced tasks.
